@@ -31,15 +31,15 @@ The goal of this project is to provide a simple yet effective tool to manage sub
 
 # Project Structure
 
-├── signup.html # User signup page
-├── login.html # User login page
-├── dashboard.js # Dashboard logic
-├── add.html # Add subscription page
-├── add.js # Add subscription logic
-├── analytics.html # Analytics page
-├── analytics.js # Analytics logic
-├── style.css # Styling
-└── script.js # Shared JS functions
+- signup.html # User signup page
+- login.html # User login page
+- dashboard.js # Dashboard logic
+- add.html # Add subscription page
+- add.js # Add subscription logic
+- analytics.html # Analytics page
+- analytics.js # Analytics logic
+- style.css # Styling
+- script.js # Shared JS functions
 
 # Future Improvements
 
