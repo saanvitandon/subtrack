@@ -8,9 +8,7 @@ SubTrack is a modern web-based subscription management system that helps users m
 
 The application has implemented a **full-stack system with authentication, database integration, analytics, and OAuth login**.
 
----
-
-### ✨ Features
+## ✨ Features
 
 ### 🔐 Authentication
 
@@ -53,9 +51,7 @@ The application has implemented a **full-stack system with authentication, datab
 - Custom-styled calendar (Flatpickr integration)
 - Consistent modern UI across pages
 
----
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 
@@ -82,9 +78,7 @@ The application has implemented a **full-stack system with authentication, datab
 - Google OAuth 2.0
 - GitHub OAuth
 
----
-
-### 📁 Project Structure
+## 📁 Project Structure
 
 ```
 SubTrack/
