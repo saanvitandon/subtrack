@@ -10,7 +10,7 @@ The application has implemented a **full-stack system with authentication, datab
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 ### 🔐 Authentication
 
@@ -55,7 +55,7 @@ The application has implemented a **full-stack system with authentication, datab
 
 ---
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ### Frontend
 
@@ -84,7 +84,7 @@ The application has implemented a **full-stack system with authentication, datab
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 SubTrack/
